@@ -2,7 +2,7 @@
 <h2 align="center">
   
   <p align="center">
-<img src="https://img.shields.io/npm/dy/silentlad">
+  <img src="./Readme-assets/1.png" width="25%"> 
   </p>
   
   ## Future scope
